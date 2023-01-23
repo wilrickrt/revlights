@@ -1,0 +1,10 @@
+{
+  "name": "revlights",
+  "version": "0.1.0",
+  "description": "Assetto Corsa Competizione rev lights",
+  "homepage": "https://github.com/wilrickrt/revlights/",
+  "dependencies": [
+    "wrt-acc",
+    "wrt-serial"
+  ]
+}

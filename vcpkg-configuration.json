@@ -1,0 +1,15 @@
+{
+  "default-registry": {
+    "kind": "git",
+    "repository": "https://github.com/microsoft/vcpkg",
+    "baseline": "71f51b100be2b5d32e3907572d99dc2f97088c8d"
+  },
+  "registries": [
+    {
+      "kind": "git",
+      "repository": "https://github.com/wilrickrt/vcpkg-registry",
+      "baseline": "93dd4894d76c8218c169b0d97d58e7a322fc43d7",
+      "packages": [ "wrt-acc", "wrt-serial" ]
+    }
+  ]
+}
